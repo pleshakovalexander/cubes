@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "build": "webpack",
-    "start:dev": "webpack-dev-server",
+    "start:dev": "webpack-dev-server"
   },
   "keywords": [],
   "author": "Alexander Pleshakov",
